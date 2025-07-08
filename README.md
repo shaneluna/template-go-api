@@ -1,11 +1,12 @@
 # template-go-api
 
-Using `go-chi`.
+Examples using `go-chi` and `gin`.
 
 ## References:
 - https://github.com/golang-standards/project-layout
 - https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
 - https://github.com/go-chi/chi
+- https://github.com/gin-gonic/gin
 
 ## Option 1: Layer-First Structure (chosen)
 - /domain/<br>
